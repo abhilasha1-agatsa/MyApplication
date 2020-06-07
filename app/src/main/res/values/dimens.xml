@@ -1,0 +1,108 @@
+<resources>
+
+        <!-- Default screen margins, per the Android Design guidelines. -->
+        <dimen name="activity_horizontal_margin">16dp</dimen>
+        <dimen name="activity_vertical_margin">16dp</dimen>
+        <dimen name="dp_0">0dp</dimen>
+        <dimen name="dp_2">2dp</dimen>
+        <dimen name="dp_150">150dp</dimen>
+        <dimen name="dp_20">20dp</dimen>
+        <dimen name="dp_25">25dp</dimen>
+
+
+        <dimen name="thumbnail_width">90dp</dimen>
+        <dimen name="thumbnail_height">60dp</dimen>
+
+
+        <dimen name="settings_page_font_size">16dp</dimen>
+
+
+        <dimen name="dp_50">50dp</dimen>
+        <dimen name="dp_80">75dp</dimen>
+        <dimen name="dp_40">40dp</dimen>
+        <dimen name="dp_45">45dp</dimen>
+        <dimen name="dp_200">200dp</dimen>
+        <dimen name="dp_4">4dp</dimen>
+        <dimen name="dp_30">30dp</dimen>
+        <dimen name="dp_35">35dp</dimen>
+        <dimen name="dp_10">10dp</dimen>
+        <dimen name="dp_96">96dp</dimen>
+        <dimen name="dp_120">120dp</dimen>
+        <dimen name="dp_100">100dp</dimen>
+
+
+        <dimen name="dp_1">1dp</dimen>
+        <dimen name="divider_size">0.5dp</dimen>
+        <dimen name="fab_margin">16dp</dimen>
+        <dimen name="appbar_padding_top">8dp</dimen>
+        <!--<dimen name="profile_name_card_height">90dp</dimen>-->
+        <dimen name="follower_count_height">110dp</dimen>
+        <dimen name="grid_layout">1dp</dimen>
+        <dimen name="dp_15">15dp</dimen>
+        <dimen name="dp_6">6dp</dimen>
+
+        <!-- font sizes -->
+        <dimen name="font_ultralarge">50sp</dimen>
+        <dimen name="font_xxxlarge">50sp</dimen>
+        <dimen name="font_xxlarge">30sp</dimen>
+        <dimen name="font_xlarge">22sp</dimen>
+        <dimen name="font_large">18sp</dimen>
+        <dimen name="font_normal">15sp</dimen>
+        <dimen name="font_small">12sp</dimen>
+        <dimen name="font_xsmall">10sp</dimen>
+        <dimen name="font_xxsmall">8sp</dimen>
+
+        <!-- typical spacing between two views -->
+        <dimen name="spacing_xxhuge">80dp</dimen>
+        <dimen name="spacing_xhuge">60dp</dimen>
+        <dimen name="spacing_huge">40dp</dimen>
+        <dimen name="spacing_large">24dp</dimen>
+        <dimen name="spacing_mid_normal">20dp</dimen>
+        <dimen name="spacing_normal">14dp</dimen>
+        <dimen name="spacing_small">10dp</dimen>
+        <dimen name="spacing_mini">7dp</dimen>
+        <dimen name="spacing_xsmall">4dp</dimen>
+        <dimen name="spacing_xxsmall">2dp</dimen>
+
+        <dimen name="dialog_icon_size">50dp</dimen>
+        <dimen name="social_login_button_height">40dp</dimen>
+        <dimen name="quote_caption_height">100dp</dimen>
+
+        <dimen name="app_bar_accounts_user_height">210dp</dimen>
+        <dimen name="profile_image_height">100dp</dimen>
+        <dimen name="profile_image_width">100dp</dimen>
+
+        <dimen name="profile_image_height_small">50dp</dimen>
+        <dimen name="profile_image_width_small">50dp</dimen>
+        <dimen name="fab_size_edit_image">30dp</dimen>
+        <dimen name="card_view_radius">4dp</dimen>
+        <dimen name="app_bar_height">180dp</dimen>
+        <dimen name="text_margin">16dp</dimen>
+        <dimen name="width_tint_color">70dp</dimen>
+
+        <dimen name="seek_bar_thickness">4dp</dimen>
+        <dimen name="seek_bar_thumb_size">20dp</dimen>
+
+        <dimen name="quote_watermark_size">15dp</dimen>
+        <dimen name="spacing_xlarge">35dp</dimen>
+
+        <dimen name="publisher_height">120dp</dimen>
+        <dimen name="publisher_width">90dp</dimen>
+        <dimen name="publisher_end_margin">16dp</dimen>
+        <dimen name="publisher_right_margin">16dp</dimen>
+        <dimen name="publisher_bottom_margin">16dp</dimen>
+        <dimen name="publisher_padding">2dp</dimen>
+        <dimen name="border">1dp</dimen>
+        <dimen name="action_bar_height">71dp</dimen>
+        <dimen name="action_bar_width">71dp</dimen>
+        <dimen name="icon_width">52dp</dimen>
+        <dimen name="icon_height">52dp</dimen>
+        <dimen name="alert_bar_height">30dp</dimen>
+        <dimen name="alert_text">14sp</dimen>
+        <dimen name="preview_width">90dp</dimen>
+        <dimen name="preview_height">78dp</dimen>
+        <dimen name="preview_rightMargin">24dp</dimen>
+        <dimen name="preview_bottomMargin">75dp</dimen>
+
+    </resources>
+
